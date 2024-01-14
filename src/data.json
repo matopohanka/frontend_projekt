@@ -1,0 +1,43 @@
+{
+    
+    "meals": [
+      {
+        "name": "Pizza Margarita",
+        "slug": "menu",
+        "image": "margarita.jpg",
+        "id": 1,
+        "cena": 10,
+        "description":
+          "Zloženie: paradajkový základ,mozzarella,bazalka,čerstvé paradajky"
+      },
+      {
+        "name": "Pizza Broccoli",
+        "slug": "menu",
+        "image": "broccoli.jpg",
+        "id": 2,
+        "cena": 15,
+        "description":
+          "Zloženie: paradajkový základ,mozzarella,brokolica,olivy"
+      },
+      {
+        "name": "Pizza Salami",
+        "slug": "menu",
+        "image": "salami.jpg",
+        "id": 3,
+        "cena": 9,
+        "description":
+          "Zloženie: paradajkový základ,mozzarella,saláma"
+        
+      },
+      {
+        "name": "Pizza AlaMatusko",
+        "slug": "syr",
+        "image": "moja.jpg",
+        "id": 4,
+        "cena": 10,
+        "description":
+          "Zloženie: čo len chcete :)"
+      }
+    ]
+  }
+  
